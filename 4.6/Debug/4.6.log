@@ -1,0 +1,72 @@
+﻿  4.6.cpp
+C:\Users\Majster\Desktop\IEPS\C++\4.6\4.6.cpp(16,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Majster\Desktop\IEPS\C++\4.6\4.6.cpp(24,23): error C3863: nie można przydzielać typu tablicy „char [1]”
+
+Podsumowanie wydajności projektu:
+     2393 ms  C:\Users\Majster\Desktop\IEPS\C++\4.6\4.6.vcxproj — wywołań:   1
+               2393 ms  Build                                    — wywołań:   1
+
+Podsumowanie wydajności elementu docelowego:
+        0 ms  BeforeBuildGenerateSources               — wywołań:   1
+        0 ms  ComputeMIDLGeneratedCompileInputs        — wywołań:   1
+        0 ms  ResolveReferences                        — wywołań:   1
+        0 ms  AfterResolveReferences                   — wywołań:   1
+        0 ms  AfterMidl                                — wywołań:   1
+        0 ms  ExpandSDKReferences                      — wywołań:   1
+        0 ms  ResolveSDKReferences                     — wywołań:   1
+        0 ms  _Midl                                    — wywołań:   1
+        0 ms  SetCABuildNativeEnvironmentVariables     — wywołań:   1
+        0 ms  SelectCustomBuild                        — wywołań:   1
+        0 ms  GetResolvedWinMD                         — wywołań:   1
+        0 ms  _Xsd                                     — wywołań:   1
+        0 ms  PreBuildEvent                            — wywołań:   1
+        0 ms  AfterBuildGenerateSources                — wywołań:   1
+        0 ms  AfterBuildGenerateSourcesEvent           — wywołań:   1
+        0 ms  PrepareProjectReferences                 — wywołań:   1
+        0 ms  _BuildGenerateSourcesAction              — wywołań:   1
+        0 ms  BuildGenerateSources                     — wywołań:   1
+        0 ms  BuildCompileTraverse                     — wywołań:   1
+        0 ms  BeforeResolveReferences                  — wywołań:   1
+        0 ms  BeforeClCompile                          — wywołań:   1
+        0 ms  _SelectedFiles                           — wywołań:   1
+        0 ms  FindReferenceAssembliesForReferences     — wywołań:   1
+        0 ms  SelectClCompile                          — wywołań:   1
+        1 ms  GetReferenceAssemblyPaths                — wywołań:   1
+        1 ms  _CheckWindowsSDKInstalled                — wywołań:   1
+        1 ms  ComputeCLInputPDBName                    — wywołań:   1
+        1 ms  SetBuildDefaultEnvironmentVariables      — wywołań:   1
+        1 ms  ComputeCustomBuildOutput                 — wywołań:   1
+        1 ms  BuildGenerateSourcesTraverse             — wywołań:   1
+        1 ms  CopyFileToFolders                        — wywołań:   1
+        1 ms  ComputeReferenceCLInput                  — wywołań:   1
+        1 ms  ResolveAssemblyReferences                — wywołań:   1
+        5 ms  MakeDirsForMidl                          — wywołań:   1
+        5 ms  GetFrameworkPaths                        — wywołań:   1
+        7 ms  _SplitProjectReferencesByFileExistence   — wywołań:   1
+        8 ms  _PrepareForReferenceResolution           — wywołań:   1
+        8 ms  WarnCompileDuplicatedFilename            — wywołań:   1
+       13 ms  MakeDirsForCl                            — wywołań:   1
+       15 ms  FixupCLCompileOptions                    — wywołań:   1
+       18 ms  _GetProjectReferenceTargetFrameworkProperties — wywołań:   1
+       23 ms  SetTelemetryEnvironmentVariables         — wywołań:   1
+       24 ms  CustomBuild                              — wywołań:   1
+       28 ms  AssignProjectConfiguration               — wywołań:   1
+       30 ms  _PrepareForBuild                         — wywołań:   1
+       36 ms  ResolveProjectReferences                 — wywołań:   1
+       40 ms  InitializeBuildStatus                    — wywołań:   1
+       41 ms  PrepareForBuild                          — wywołań:   1
+      148 ms  _CheckForInvalidConfigurationAndPlatform — wywołań:   1
+     1851 ms  ClCompile                                — wywołań:   1
+
+Podsumowanie wydajności zadania:
+        3 ms  CheckVCToolsetVersion                    — wywołań:   1
+        5 ms  WriteLinesToFile                         — wywołań:   1
+       12 ms  MSBuild                                  — wywołań:   1
+       12 ms  SetEnv                                   — wywołań:   8
+       14 ms  MakeDir                                  — wywołań:   5
+       16 ms  ReadLinesFromFile                        — wywołań:   1
+       18 ms  Touch                                    — wywołań:   1
+       24 ms  GetOutOfDateItems                        — wywołań:   3
+       27 ms  AssignProjectConfiguration               — wywołań:   1
+       36 ms  Message                                  — wywołań:   2
+     1849 ms  CL                                       — wywołań:   1

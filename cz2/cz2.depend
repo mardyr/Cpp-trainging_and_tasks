@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1586795070 source:c:\users\majster\desktop\ieps\c++\cz2\main.cpp
+	"main.h"
+	<queue>
+	<functional>
+	<vector>
+
+1586730328 c:\users\majster\desktop\ieps\c++\cz2\main.h
+	<iostream>
+	<cmath>
+	<sstream>
+	<cstdlib>
+	<cstring>
+

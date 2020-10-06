@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1586823213 source:c:\users\majster\desktop\ieps\c++\stl cz.3\main.cpp
+	"main.h"
+	<list>
+	<vector>
+
+1586730328 c:\users\majster\desktop\ieps\c++\stl cz.3\main.h
+	<iostream>
+	<cmath>
+	<sstream>
+	<cstdlib>
+	<cstring>
+

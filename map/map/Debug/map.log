@@ -1,0 +1,62 @@
+﻿  map.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\utility(151,16): warning C4244: "inicjowanie": konwersja z "_Ty" do "_Ty1", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty1=const float
+          ]
+C:\Users\Majster\Desktop\IEPS\C++\map\map\map.cpp(28): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::pair<const float,float>::pair<int,double,0>(_Other1 &&,_Other2 &&) noexcept” funkcji szablon
+          with
+          [
+              _Other1=int,
+              _Other2=double
+          ]
+C:\Users\Majster\Desktop\IEPS\C++\map\map\map.cpp(28): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::pair<const float,float>::pair<int,double,0>(_Other1 &&,_Other2 &&) noexcept” funkcji szablon
+          with
+          [
+              _Other1=int,
+              _Other2=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\utility(151,1): warning C4244: "inicjowanie": konwersja z "_Ty" do "_Ty2", możliwa utrata danych
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty2=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\utility(151,16): warning C4244: "inicjowanie": konwersja z "_Ty" do "_Ty1", możliwa utrata danych
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty1=const float
+          ]
+C:\Users\Majster\Desktop\IEPS\C++\map\map\map.cpp(28): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::pair<const float,float>::pair<double,double,0>(_Other1 &&,_Other2 &&) noexcept” funkcji szablon
+          with
+          [
+              _Other1=double,
+              _Other2=double
+          ]
+C:\Users\Majster\Desktop\IEPS\C++\map\map\map.cpp(28): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::pair<const float,float>::pair<double,double,0>(_Other1 &&,_Other2 &&) noexcept” funkcji szablon
+          with
+          [
+              _Other1=double,
+              _Other2=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\utility(151,1): warning C4244: "inicjowanie": konwersja z "_Ty" do "_Ty2", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty2=float
+          ]
+  map.vcxproj -> C:\Users\Majster\Desktop\IEPS\C++\map\Debug\map.exe

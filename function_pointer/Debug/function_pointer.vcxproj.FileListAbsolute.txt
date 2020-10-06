@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\function_pointer\Debug\function_pointer.exe
+C:\Users\Majster\Desktop\IEPS\C++\function_pointer\Debug\function_pointer.pdb

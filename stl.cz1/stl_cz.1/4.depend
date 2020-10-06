@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1586731650 source:c:\users\majster\desktop\ieps\linkedc\4\stl_cz.1\main.cpp
+	"main.h"
+	<stack>
+	<queue>
+	<deque>
+
+1586730328 c:\users\majster\desktop\ieps\linkedc\4\stl_cz.1\main.h
+	<iostream>
+	<cmath>
+	<sstream>
+	<cstdlib>
+	<cstring>
+

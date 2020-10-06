@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\binary\Debug\binary.exe
+C:\Users\Majster\Desktop\IEPS\C++\binary\Debug\binary.pdb

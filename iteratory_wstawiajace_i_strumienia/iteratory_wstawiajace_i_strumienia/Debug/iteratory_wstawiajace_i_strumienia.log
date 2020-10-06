@@ -1,0 +1,4 @@
+﻿  iteratory_wstawiajace_i_strumienia.cpp
+C:\Users\Majster\Desktop\IEPS\C++\iteratory_wstawiajace_i_strumienia\iteratory_wstawiajace_i_strumienia\numbers.h(71,2): warning C4984: „if constexpr” jest rozszerzeniem języka C++17
+iteratory_wstawiajace_i_strumienia.obj : error LNK2019: nierozpoznany zewnętrzny symbol "void __cdecl _006(void)" (?_006@@YAXXZ) przywołany w funkcji _main
+C:\Users\Majster\Desktop\IEPS\C++\iteratory_wstawiajace_i_strumienia\Debug\iteratory_wstawiajace_i_strumienia.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1

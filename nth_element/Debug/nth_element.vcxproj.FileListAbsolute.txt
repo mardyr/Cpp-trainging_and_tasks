@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\nth_element\Debug\nth_element.exe
+C:\Users\Majster\Desktop\IEPS\C++\nth_element\Debug\nth_element.pdb

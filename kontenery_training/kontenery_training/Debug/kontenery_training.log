@@ -1,0 +1,3 @@
+﻿  kontenery_training.cpp
+C:\Users\Majster\Desktop\IEPS\C++\kontenery_training\kontenery_training\kontenery_training.cpp(116,10): warning C4834: odrzucanie zwracanej wartości funkcji z atrybutem „nodiscard”
+  kontenery_training.vcxproj -> C:\Users\Majster\Desktop\IEPS\C++\kontenery_training\Debug\kontenery_training.exe

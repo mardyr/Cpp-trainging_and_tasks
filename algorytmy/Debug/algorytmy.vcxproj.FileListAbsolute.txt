@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\algorytmy\Debug\algorytmy.exe
+C:\Users\Majster\Desktop\IEPS\C++\algorytmy\Debug\algorytmy.pdb

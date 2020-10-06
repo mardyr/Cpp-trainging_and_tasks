@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\stream insertion\Debug\stream insertion.exe
+C:\Users\Majster\Desktop\IEPS\C++\stream insertion\Debug\stream insertion.pdb

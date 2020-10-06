@@ -1,0 +1,5 @@
+C:\Users\Majster\Desktop\IEPS\C++\unit_testy\Debug\unit_testy.vcxproj.CopyComplete
+C:\Users\Majster\Desktop\IEPS\C++\unit_testy\Debug\unit_testy.exe
+C:\Users\Majster\Desktop\IEPS\C++\unit_testy\Debug\unit_testy.pdb
+C:\Users\Majster\Desktop\IEPS\C++\unit_testy\Debug\gtest.pdb
+C:\Users\Majster\Desktop\IEPS\C++\unit_testy\Debug\gtest_main.pdb

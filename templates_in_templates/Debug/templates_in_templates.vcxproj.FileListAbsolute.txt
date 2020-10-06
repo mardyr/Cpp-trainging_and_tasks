@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\templates_in_templates\Debug\templates_in_templates.exe
+C:\Users\Majster\Desktop\IEPS\C++\templates_in_templates\Debug\templates_in_templates.pdb

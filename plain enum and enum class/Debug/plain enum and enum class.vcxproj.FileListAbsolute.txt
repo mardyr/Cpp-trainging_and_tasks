@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\plain enum and enum class\Debug\plain enum and enum class.exe
+C:\Users\Majster\Desktop\IEPS\C++\plain enum and enum class\Debug\plain enum and enum class.pdb

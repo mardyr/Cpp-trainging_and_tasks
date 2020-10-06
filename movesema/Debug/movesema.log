@@ -1,0 +1,73 @@
+﻿  movesema.cpp
+C:\Users\Majster\Desktop\IEPS\C++\movesema\movesema.cpp(11,37): error C2610: „Foo::Foo(const Foo &&)”: nie jest specjalną funkcją składową ani operatorem porównania, który można przyjąć jako domyślny
+C:\Users\Majster\Desktop\IEPS\C++\movesema\movesema.cpp(11,37): message : argument musi być odwołaniem wartościowanym prawostronnie innym niż stała
+
+Podsumowanie wydajności projektu:
+     2307 ms  C:\Users\Majster\Desktop\IEPS\C++\movesema\movesema.vcxproj — wywołań:   1
+               2307 ms  Build                                    — wywołań:   1
+
+Podsumowanie wydajności elementu docelowego:
+        0 ms  BeforeBuildGenerateSources               — wywołań:   1
+        0 ms  SelectClCompile                          — wywołań:   1
+        0 ms  PreBuildEvent                            — wywołań:   1
+        0 ms  _SelectedFiles                           — wywołań:   1
+        0 ms  SelectCustomBuild                        — wywołań:   1
+        0 ms  ComputeCustomBuildOutput                 — wywołań:   1
+        0 ms  _Xsd                                     — wywołań:   1
+        0 ms  MakeDirsForMidl                          — wywołań:   1
+        0 ms  ComputeMIDLGeneratedCompileInputs        — wywołań:   1
+        0 ms  AfterMidl                                — wywołań:   1
+        0 ms  _Midl                                    — wywołań:   1
+        0 ms  AfterBuildGenerateSources                — wywołań:   1
+        0 ms  AfterBuildGenerateSourcesEvent           — wywołań:   1
+        0 ms  _BuildGenerateSourcesAction              — wywołań:   1
+        0 ms  BuildGenerateSources                     — wywołań:   1
+        0 ms  BeforeClCompile                          — wywołań:   1
+        0 ms  ComputeCLInputPDBName                    — wywołań:   1
+        0 ms  FindReferenceAssembliesForReferences     — wywołań:   1
+        0 ms  ResolveReferences                        — wywołań:   1
+        0 ms  AfterResolveReferences                   — wywołań:   1
+        0 ms  BuildGenerateSourcesTraverse             — wywołań:   1
+        0 ms  ExpandSDKReferences                      — wywołań:   1
+        0 ms  BeforeResolveReferences                  — wywołań:   1
+        0 ms  PrepareProjectReferences                 — wywołań:   1
+        0 ms  ResolveSDKReferences                     — wywołań:   1
+        0 ms  ResolveAssemblyReferences                — wywołań:   1
+        0 ms  SetCABuildNativeEnvironmentVariables     — wywołań:   1
+        0 ms  GetFrameworkPaths                        — wywołań:   1
+        1 ms  BuildCompileTraverse                     — wywołań:   1
+        1 ms  CopyFileToFolders                        — wywołań:   1
+        1 ms  _PrepareForReferenceResolution           — wywołań:   1
+        1 ms  ComputeReferenceCLInput                  — wywołań:   1
+        1 ms  GetResolvedWinMD                         — wywołań:   1
+        1 ms  GetReferenceAssemblyPaths                — wywołań:   1
+        1 ms  SetBuildDefaultEnvironmentVariables      — wywołań:   1
+        1 ms  _SplitProjectReferencesByFileExistence   — wywołań:   1
+        2 ms  _CheckWindowsSDKInstalled                — wywołań:   1
+        2 ms  _GetProjectReferenceTargetFrameworkProperties — wywołań:   1
+        2 ms  FixupCLCompileOptions                    — wywołań:   1
+        3 ms  _PrepareForBuild                         — wywołań:   1
+        8 ms  InitializeBuildStatus                    — wywołań:   1
+        9 ms  AssignProjectConfiguration               — wywołań:   1
+       10 ms  MakeDirsForCl                            — wywołań:   1
+       13 ms  CustomBuild                              — wywołań:   1
+       14 ms  WarnCompileDuplicatedFilename            — wywołań:   1
+       19 ms  SetTelemetryEnvironmentVariables         — wywołań:   1
+       52 ms  PrepareForBuild                          — wywołań:   1
+       54 ms  ResolveProjectReferences                 — wywołań:   1
+       60 ms  _CheckForInvalidConfigurationAndPlatform — wywołań:   1
+     2038 ms  ClCompile                                — wywołań:   1
+
+Podsumowanie wydajności zadania:
+        0 ms  ReadLinesFromFile                        — wywołań:   1
+        0 ms  Delete                                   — wywołań:   1
+        1 ms  MSBuild                                  — wywołań:   1
+        1 ms  WriteLinesToFile                         — wywołań:   1
+        2 ms  CheckVCToolsetVersion                    — wywołań:   1
+        4 ms  Touch                                    — wywołań:   1
+        4 ms  SetEnv                                   — wywołań:   8
+        8 ms  Message                                  — wywołań:   2
+        9 ms  AssignProjectConfiguration               — wywołań:   1
+       14 ms  GetOutOfDateItems                        — wywołań:   3
+       25 ms  MakeDir                                  — wywołań:   5
+     2036 ms  CL                                       — wywołań:   1

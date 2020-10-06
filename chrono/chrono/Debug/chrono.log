@@ -1,0 +1,4 @@
+﻿  chrono.cpp
+C:\Users\Majster\Desktop\IEPS\C++\chrono\chrono\chrono.cpp(114,16): error C2373: "start": zmiana definicji; różne typy modyfikatorów
+C:\Users\Majster\Desktop\IEPS\C++\chrono\chrono\chrono.cpp(79): message : zobacz deklarację „start”
+C:\Users\Majster\Desktop\IEPS\C++\chrono\chrono\chrono.cpp(118,18): error C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

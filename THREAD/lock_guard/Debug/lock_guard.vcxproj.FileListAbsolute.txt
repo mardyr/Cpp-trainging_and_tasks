@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\THREAD\lock_guard\Debug\lock_guard.exe
+C:\Users\Majster\Desktop\IEPS\C++\THREAD\lock_guard\Debug\lock_guard.pdb

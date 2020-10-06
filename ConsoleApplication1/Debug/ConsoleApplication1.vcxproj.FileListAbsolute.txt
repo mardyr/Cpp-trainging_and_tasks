@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\Majster\Desktop\IEPS\C++\ConsoleApplication1\Debug\ConsoleApplication1.pdb

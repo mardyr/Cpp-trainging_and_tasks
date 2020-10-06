@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\is_sort\Debug\is_sort.exe
+C:\Users\Majster\Desktop\IEPS\C++\is_sort\Debug\is_sort.pdb

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1586194658 source:c:\users\majster\desktop\ieps\nowy folder\classtraing\main.cpp
+	<iostream>
+	"train.h"
+
+1586194898 c:\users\majster\desktop\ieps\nowy folder\classtraing\include\train.h
+	<iostream>
+
+1586194954 source:c:\users\majster\desktop\ieps\nowy folder\classtraing\src\train.cpp
+	<iostream>
+	"train.h"
+

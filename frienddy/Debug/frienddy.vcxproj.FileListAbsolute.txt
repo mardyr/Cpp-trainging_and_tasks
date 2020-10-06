@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\frienddy\Debug\frienddy.exe
+C:\Users\Majster\Desktop\IEPS\C++\frienddy\Debug\frienddy.pdb

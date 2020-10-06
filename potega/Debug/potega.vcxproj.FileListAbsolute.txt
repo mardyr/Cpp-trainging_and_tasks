@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\potega\Debug\potega.exe
+C:\Users\Majster\Desktop\IEPS\C++\potega\Debug\potega.pdb

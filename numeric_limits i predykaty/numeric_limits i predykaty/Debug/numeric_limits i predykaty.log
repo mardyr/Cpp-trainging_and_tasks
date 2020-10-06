@@ -1,0 +1,4 @@
+﻿  numeric_limits i predykaty.cpp
+C:\Users\Majster\Desktop\IEPS\C++\numeric_limits i predykaty\numeric_limits i predykaty\numeric_limits i predykaty.cpp(55,1): warning C4554: „&”: Sprawdź pierwszeństwo operatorów w poszukiwaniu możliwego błędu; użyj nawiasów, aby ujednoznacznić pierwszeństwo
+C:\Users\Majster\Desktop\IEPS\C++\numeric_limits i predykaty\numeric_limits i predykaty\numeric_limits i predykaty.cpp(56,43): error C2064: funkcja przyjmująca 1 argumentów nie jest wynikiem przetworzenia termu
+C:\Users\Majster\Desktop\IEPS\C++\numeric_limits i predykaty\numeric_limits i predykaty\numeric_limits i predykaty.cpp(60,5): error C2059: błąd składniowy: „)”

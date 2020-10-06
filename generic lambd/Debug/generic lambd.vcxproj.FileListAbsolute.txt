@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\generic lambd\Debug\generic lambd.exe
+C:\Users\Majster\Desktop\IEPS\C++\generic lambd\Debug\generic lambd.pdb

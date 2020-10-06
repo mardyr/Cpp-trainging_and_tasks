@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\partial_sort\Debug\partial_sort.exe
+C:\Users\Majster\Desktop\IEPS\C++\partial_sort\Debug\partial_sort.pdb

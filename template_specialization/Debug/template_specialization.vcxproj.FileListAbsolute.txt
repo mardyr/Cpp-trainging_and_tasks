@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\template_specialization\Debug\template_specialization.exe
+C:\Users\Majster\Desktop\IEPS\C++\template_specialization\Debug\template_specialization.pdb

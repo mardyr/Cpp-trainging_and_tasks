@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\unary operator\Debug\unary operator.exe
+C:\Users\Majster\Desktop\IEPS\C++\unary operator\Debug\unary operator.pdb

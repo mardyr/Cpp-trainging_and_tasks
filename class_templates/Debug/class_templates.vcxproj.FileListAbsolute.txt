@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\class_templates\Debug\class_templates.exe
+C:\Users\Majster\Desktop\IEPS\C++\class_templates\Debug\class_templates.pdb

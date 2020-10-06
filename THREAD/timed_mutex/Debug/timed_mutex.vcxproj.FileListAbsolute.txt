@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\THREAD\timed_mutex\Debug\timed_mutex.exe
+C:\Users\Majster\Desktop\IEPS\C++\THREAD\timed_mutex\Debug\timed_mutex.pdb

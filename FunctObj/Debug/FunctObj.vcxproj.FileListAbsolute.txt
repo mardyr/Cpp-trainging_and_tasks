@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\FunctObj\Debug\FunctObj.exe
+C:\Users\Majster\Desktop\IEPS\C++\FunctObj\Debug\FunctObj.pdb

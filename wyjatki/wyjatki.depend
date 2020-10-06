@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1587208770 source:c:\users\majster\desktop\ieps\c++\wyjatki\main.cpp
+	"main.h"
+
+1587208734 c:\users\majster\desktop\ieps\c++\wyjatki\main.h
+	<iostream>
+	<cmath>
+	<sstream>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	<vector>
+	<windows.h>
+	<psapi.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586887690 source:c:\users\majster\desktop\ieps\c++\string przypomnienie\main.cpp
+	<iostream>
+	<fstream>
+

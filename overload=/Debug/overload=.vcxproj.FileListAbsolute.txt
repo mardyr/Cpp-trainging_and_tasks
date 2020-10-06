@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\overload=\Debug\overload=.exe
+C:\Users\Majster\Desktop\IEPS\C++\overload=\Debug\overload=.pdb

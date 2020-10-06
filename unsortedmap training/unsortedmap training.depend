@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1586871546 source:c:\users\majster\desktop\ieps\c++\unsortedmap training\main.cpp
+	"main.h"
+	<unordered_map>
+
+1586865382 c:\users\majster\desktop\ieps\c++\unsortedmap training\main.h
+	<iostream>
+	<cmath>
+	<sstream>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+

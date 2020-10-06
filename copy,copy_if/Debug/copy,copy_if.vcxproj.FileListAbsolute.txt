@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\copy,copy_if\Debug\copy,copy_if.exe
+C:\Users\Majster\Desktop\IEPS\C++\copy,copy_if\Debug\copy,copy_if.pdb

@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\mutating_algorithm\Debug\mutating_algorithm.exe
+C:\Users\Majster\Desktop\IEPS\C++\mutating_algorithm\Debug\mutating_algorithm.pdb

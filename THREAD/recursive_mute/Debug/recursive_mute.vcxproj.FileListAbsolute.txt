@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\THREAD\recursive_mute\Debug\recursive_mute.exe
+C:\Users\Majster\Desktop\IEPS\C++\THREAD\recursive_mute\Debug\recursive_mute.pdb

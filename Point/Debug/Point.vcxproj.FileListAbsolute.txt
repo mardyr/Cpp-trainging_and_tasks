@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\Point\Debug\Point.exe
+C:\Users\Majster\Desktop\IEPS\C++\Point\Debug\Point.pdb

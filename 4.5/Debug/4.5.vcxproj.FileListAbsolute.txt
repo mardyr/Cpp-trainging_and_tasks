@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\4.5\Debug\4.5.exe
+C:\Users\Majster\Desktop\IEPS\C++\4.5\Debug\4.5.pdb

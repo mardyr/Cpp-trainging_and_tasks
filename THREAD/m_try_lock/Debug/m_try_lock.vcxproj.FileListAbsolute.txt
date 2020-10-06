@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\THREAD\m_try_lock\Debug\m_try_lock.exe
+C:\Users\Majster\Desktop\IEPS\C++\THREAD\m_try_lock\Debug\m_try_lock.pdb

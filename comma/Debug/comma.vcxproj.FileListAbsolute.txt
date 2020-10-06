@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\comma\Debug\comma.exe
+C:\Users\Majster\Desktop\IEPS\C++\comma\Debug\comma.pdb

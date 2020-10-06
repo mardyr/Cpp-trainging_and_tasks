@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\factorydesign\Debug\factorydesign.exe
+C:\Users\Majster\Desktop\IEPS\C++\factorydesign\Debug\factorydesign.pdb

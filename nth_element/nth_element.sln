@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nth_element", "nth_element.vcxproj", "{3D8020EE-84F1-4A47-8460-A4D77F5BF959}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D8020EE-84F1-4A47-8460-A4D77F5BF959}.Debug|x64.ActiveCfg = Debug|x64
+		{3D8020EE-84F1-4A47-8460-A4D77F5BF959}.Debug|x64.Build.0 = Debug|x64
+		{3D8020EE-84F1-4A47-8460-A4D77F5BF959}.Debug|x86.ActiveCfg = Debug|Win32
+		{3D8020EE-84F1-4A47-8460-A4D77F5BF959}.Debug|x86.Build.0 = Debug|Win32
+		{3D8020EE-84F1-4A47-8460-A4D77F5BF959}.Release|x64.ActiveCfg = Release|x64
+		{3D8020EE-84F1-4A47-8460-A4D77F5BF959}.Release|x64.Build.0 = Release|x64
+		{3D8020EE-84F1-4A47-8460-A4D77F5BF959}.Release|x86.ActiveCfg = Release|Win32
+		{3D8020EE-84F1-4A47-8460-A4D77F5BF959}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C2A3AE5-6915-45CB-B30C-335EA3BB473A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\unique_ptr\Debug\unique_ptr.exe
+C:\Users\Majster\Desktop\IEPS\C++\unique_ptr\Debug\unique_ptr.pdb

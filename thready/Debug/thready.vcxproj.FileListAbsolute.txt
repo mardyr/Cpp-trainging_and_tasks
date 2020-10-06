@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\thready\Debug\thready.exe
+C:\Users\Majster\Desktop\IEPS\C++\thready\Debug\thready.pdb
