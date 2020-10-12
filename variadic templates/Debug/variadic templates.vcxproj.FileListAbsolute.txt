@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\variadic templates\Debug\variadic templates.exe
+C:\Users\Majster\Desktop\IEPS\C++\variadic templates\Debug\variadic templates.pdb
