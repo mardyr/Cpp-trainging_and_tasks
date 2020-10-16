@@ -1,0 +1,71 @@
+﻿  07.cpp
+C:\Users\Majster\Desktop\IEPS\C++\folding\07.cpp(58,28): error C2760: błąd składniowy: nieoczekiwany token „<<”, oczekiwano „)”
+
+Podsumowanie wydajności projektu:
+     2469 ms  C:\Users\Majster\Desktop\IEPS\C++\folding\folding.vcxproj — wywołań:   1
+               2469 ms  Build                                    — wywołań:   1
+
+Podsumowanie wydajności elementu docelowego:
+        0 ms  _CheckForInvalidConfigurationAndPlatform — wywołań:   1
+        0 ms  SelectCustomBuild                        — wywołań:   1
+        0 ms  ComputeCustomBuildOutput                 — wywołań:   1
+        0 ms  CustomBuild                              — wywołań:   1
+        0 ms  CopyFileToFolders                        — wywołań:   1
+        0 ms  _Xsd                                     — wywołań:   1
+        0 ms  MakeDirsForMidl                          — wywołań:   1
+        0 ms  ComputeMIDLGeneratedCompileInputs        — wywołań:   1
+        0 ms  AfterMidl                                — wywołań:   1
+        0 ms  _Midl                                    — wywołań:   1
+        0 ms  AfterBuildGenerateSources                — wywołań:   1
+        0 ms  AfterBuildGenerateSourcesEvent           — wywołań:   1
+        0 ms  _BuildGenerateSourcesAction              — wywołań:   1
+        0 ms  BuildGenerateSources                     — wywołań:   1
+        0 ms  BuildCompileTraverse                     — wywołań:   1
+        0 ms  BeforeClCompile                          — wywołań:   1
+        0 ms  ComputeCLInputPDBName                    — wywołań:   1
+        0 ms  FindReferenceAssembliesForReferences     — wywołań:   1
+        0 ms  ComputeReferenceCLInput                  — wywołań:   1
+        0 ms  WarnCompileDuplicatedFilename            — wywołań:   1
+        0 ms  FixupCLCompileOptions                    — wywołań:   1
+        0 ms  MakeDirsForCl                            — wywołań:   1
+        0 ms  _SelectedFiles                           — wywołań:   1
+        0 ms  PreBuildEvent                            — wywołań:   1
+        0 ms  BeforeBuildGenerateSources               — wywołań:   1
+        0 ms  BuildGenerateSourcesTraverse             — wywołań:   1
+        0 ms  SetTelemetryEnvironmentVariables         — wywołań:   1
+        0 ms  _PrepareForBuild                         — wywołań:   1
+        0 ms  _PrepareForReferenceResolution           — wywołań:   1
+        0 ms  BeforeResolveReferences                  — wywołań:   1
+        0 ms  AssignProjectConfiguration               — wywołań:   1
+        0 ms  _SplitProjectReferencesByFileExistence   — wywołań:   1
+        0 ms  _GetProjectReferenceTargetFrameworkProperties — wywołań:   1
+        0 ms  PrepareProjectReferences                 — wywołań:   1
+        0 ms  ResolveProjectReferences                 — wywołań:   1
+        0 ms  GetFrameworkPaths                        — wywołań:   1
+        0 ms  SelectClCompile                          — wywołań:   1
+        0 ms  GetReferenceAssemblyPaths                — wywołań:   1
+        0 ms  GetResolvedWinMD                         — wywołań:   1
+        0 ms  _CheckWindowsSDKInstalled                — wywołań:   1
+        0 ms  SetCABuildNativeEnvironmentVariables     — wywołań:   1
+        0 ms  PrepareForBuild                          — wywołań:   1
+        0 ms  ResolveSDKReferences                     — wywołań:   1
+        0 ms  ExpandSDKReferences                      — wywołań:   1
+        0 ms  ResolveAssemblyReferences                — wywołań:   1
+        0 ms  AfterResolveReferences                   — wywołań:   1
+        0 ms  ResolveReferences                        — wywołań:   1
+        0 ms  SetBuildDefaultEnvironmentVariables      — wywołań:   1
+       16 ms  InitializeBuildStatus                    — wywołań:   1
+     2438 ms  ClCompile                                — wywołań:   1
+
+Podsumowanie wydajności zadania:
+        0 ms  Message                                  — wywołań:   2
+        0 ms  SetEnv                                   — wywołań:   8
+        0 ms  AssignProjectConfiguration               — wywołań:   1
+        0 ms  MSBuild                                  — wywołań:   1
+        0 ms  MakeDir                                  — wywołań:   5
+        0 ms  CheckVCToolsetVersion                    — wywołań:   1
+        0 ms  ReadLinesFromFile                        — wywołań:   1
+        0 ms  WriteLinesToFile                         — wywołań:   1
+        0 ms  Touch                                    — wywołań:   1
+        0 ms  GetOutOfDateItems                        — wywołań:   3
+     2438 ms  CL                                       — wywołań:   1
