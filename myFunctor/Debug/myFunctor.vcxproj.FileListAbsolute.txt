@@ -1,0 +1,2 @@
+C:\Users\Majster\Desktop\IEPS\C++\myFunctor\Debug\myFunctor.exe
+C:\Users\Majster\Desktop\IEPS\C++\myFunctor\Debug\myFunctor.pdb
